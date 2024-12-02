@@ -1,0 +1,25 @@
+body {
+    background: hsl(291, 56%, 93%);
+    color: black;
+}
+
+.head1 {
+    text-align: center;
+    font-size: 18pt;
+    font-style: normal;
+    color: #929dff;
+}
+
+.pink {
+    text-align: center;
+    font-size: 14pt;
+    font-style: italic;
+    color: rgb(245, 154, 154);
+}
+
+.por {
+    text-align: center;
+    font-style: normal;
+    font-family: Cordia New;
+    font-size: 14pt;
+}
